@@ -1,7 +1,7 @@
 <div><img src="https://nku-ase.github.io/ASE230-Server-Side-Scripting/assets/cover.jpg" width="100%" /></div>
 
 # General information
-This repository is published as a website at https://nku-ase.github.io/ASE230-Server-Side-Scripting/
+This <a href="https://github.com/NKU-ASE/ASE230-Server-Side-Scripting">repository</a> is also published as a <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/">website</a>
 
 # Topics
 
