@@ -41,19 +41,19 @@ This repository is published as a website at https://nku-ase.github.io/ASE230-Se
 
 ## 09 - Database design for web applications
 #### Slides
-- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/09.pdf">Click to download</a>
+- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/09-Database-design-for-web-applications.pdf">Click to download</a>
 
 #### Videos: tbd
 
 ## 10 - MySQL database implementation
 #### Slides
-- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/10.pdf">Click to download</a>
+- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/10-Database-implementation-in-MySQL.pdf">Click to download</a>
 
 #### Videos: tbd
 
 ## 11 - MySQL queries in PHP
 #### Slides
-- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/11.pdf">Click to download</a>
+- <a href="https://nku-ase.github.io/ASE230-Server-Side-Scripting/slides/11-MySQL-queries-with-PHP.pdf">Click to download</a>
 
 #### Videos: tbd
 
